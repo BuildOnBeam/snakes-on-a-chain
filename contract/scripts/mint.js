@@ -6,8 +6,8 @@
 // global scope, and execute the script.
 const hre = require("hardhat");
 
-const numTokensToMint = 100;
-const contractAddress = "0x1f419B9469D641D333805C4054CA3b65Af54d315";
+const numTokensToMint = 200;
+const contractAddress = "0xd512a5c1e694b848271FC3CE879E8e7632e2EDeB";
 
 async function main() {
   const [deployer] = await hre.ethers.getSigners();

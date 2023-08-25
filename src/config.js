@@ -1,10 +1,10 @@
 const config = {
   /** base info */
   name: 'Snakes on a chain', // project name
-  description: 'A research project for generating and running interactive NFTs.',
+  description: 'A research project for generating and running interactive NFTs. First NFT on Beam :)',
   nftName: 'Snake', // name for a single NFT (=> "Snake #42"), can be the same as the project name
-  host: 'https://snakes.connectednft.art', // host URI
-  externalUri: 'https://github.com/xtools-at/snakes-on-a-chain', // optional, link to project website
+  host: 'https://snake-on-a-chain-euppi.ondigitalocean.app', // host URI
+  externalUri: 'https://github.com/Merit-Circle/snakes-on-a-chain', // optional, link to project website
 
   /** royalties */
   royalty: {

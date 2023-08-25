@@ -19,7 +19,7 @@ contract NFT is
     // variables
     Counters.Counter private _tokenIdTracker;
     bytes32 public constant MINTER_ROLE = keccak256("MINTER_ROLE");
-    string internal _baseUri = "https://snakes.connectednft.art/token/";
+    string internal _baseUri = "https://snake-on-a-chain-euppi.ondigitalocean.app/token/";
 
     /**
      * @dev Constructor

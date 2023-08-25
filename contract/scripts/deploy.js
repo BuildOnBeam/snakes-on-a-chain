@@ -6,7 +6,7 @@
 // global scope, and execute the script.
 const hre = require("hardhat");
 
-const numTokensToMint = 2000;
+const numTokensToMint = 100;
 
 async function main() {
   const [deployer] = await hre.ethers.getSigners();
