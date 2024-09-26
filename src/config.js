@@ -4,7 +4,7 @@ const config = {
   description: 'A research project for generating and running interactive NFTs. First NFT on Beam :)',
   nftName: 'Snake', // name for a single NFT (=> "Snake #42"), can be the same as the project name
   host: 'https://snake-on-a-chain-euppi.ondigitalocean.app', // host URI
-  externalUri: 'https://github.com/Merit-Circle/snakes-on-a-chain', // optional, link to project website
+  externalUri: 'https://github.com/BuildOnBeam/snakes-on-a-chain', // optional, link to project website
 
   /** royalties */
   royalty: {
